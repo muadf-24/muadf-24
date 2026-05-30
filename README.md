@@ -2,7 +2,7 @@
 - 👀 I’m interested in **software development, cybersecurity, and networking**.
 - 🌱 I’m currently learning **Java, XML, HTML, SQL, and JavaScript**.
 - 💞️ I’m looking to collaborate on **programming and networking**.
-- 📫 How to reach me emil:malafrangi@smail.ucas.edu.ps 
+- 📫 How to reach me emil:muaz.alfrinjy.dev@gmail.com 
 - 😄 Pronouns: **he/him**.
 - ⚡ Fun fact: **I am skilled in programming**
 
