@@ -1,15 +1,17 @@
-- 👋 Hi, I’m @muadf-24
-- 👀 I’m interested in **software development, cybersecurity, and networking**.
-- 🌱 I’m currently learning **Java, XML, HTML, SQL, and JavaScript**.
-- 💞️ I’m looking to collaborate on **programming and networking**.
-- 📫 How to reach me emil:muaz.alfrinjy.dev@gmail.com 
-- 😄 Pronouns: **he/him**.
-- ⚡ Fun fact: **I am skilled in programming**
+# Hi, I'm Muaz Al-frinjy 👋
 
+Flutter & Mobile Developer | Full-Stack | Open to Remote Work
 
-If you have any modifications or additions, feel free to let me know!
+## 🚀 About Me
+Mobile developer with 3+ years experience building 
+cross-platform apps using Flutter & Android Native.
 
-<!---
-muadf-24/muadf-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ Tech Stack
+**Mobile:** Flutter • Dart • Android (Java/XML) • React Native  
+**Backend:** REST APIs • Firebase • SQL • MySQL  
+**Tools:** Git • GitHub • Agile • Scrum
+
+## 📫 Contact
+📧 muaz.alfrinjy.dev@gmail.com  
+🌐 muad-solutions.web.app  
+💼 linkedin.com/in/muaz-al-frinjy-a80b56287
